@@ -1,0 +1,88 @@
+[{
+    "title": "The Opportunities and Challenges of ChatGPT in Higher Education",
+    "description": "A global policy-based case study analysing AI adoption in universities. Covered academic integrity risks, responsible AI integration, evolving institutional policies, and the balance between AI efficiency and human mentorship in learning environments.",
+    "tags": ["AI Ethics", "Education", "Policy Analysis", "Case Study"],
+    "link": "https://www.linkedin.com/posts/raghavgoel00147_the-opportunities-and-challenges-of-chatgpt-activity-7377227328541761536-L1Mi?utm_source=share&utm_medium=member_desktop&rcm=ACoAADJZZogBktEfTcdtPaLn1IfLW3v0ScDX4WE",
+    "type": "Creative Project"
+ },
+  {
+  "title": "Singapore Employment Analytics Dashboard",
+  "description": "Interactive Streamlit dashboard analyzing employment, income, and job market trends across Singapore from 2015–2024, with AI-powered insights.",
+  "tags": ["Data Visualization", "AI", "Streamlit", "Employment Trends"],
+  "link": "https://mom-employment-app.streamlit.app/",
+  "type": "Project"
+  },
+  {
+  "title": "ESG Analytics — Machine Learning & Dashboard Project",
+  "description": "Comprehensive ESG analysis using financial data, sustainability reports, machine learning models, clustering, and sentiment analysis. Includes ESG–financial correlation studies, Random Forest & CART models, sector-wise analytics, and an interactive dashboard for company-level ESG insights.",
+  "tags": ["Machine Learning", "ESG", "Clustering", "Sentiment Analysis", "Dashboard"],
+  "link": "https://github.com/raghavgoel9670/Machine-Learning-Project---ESG-Analytics",
+  "type": "Project"
+  }, 
+  {
+    "title": "Data Science at Target — Strategic Analysis Presentation",
+    "description": "Analyzed Target’s evolution into a data-driven retail leader, covering EDABI, personalization systems, supply-chain analytics, experimentation culture, and post-breach digital transformation. Recommended data-driven influencer strategy, trend-surfing analytics, and enhanced personalization models.",
+    "tags": ["Data Science", "Retail Analytics", "Business Strategy", "Presentation"],
+    "link": "https://www.linkedin.com/posts/raghavgoel00147_presentation-on-target-activity-7368557765130076162-E0oa?utm_source=share&utm_medium=member_desktop&rcm=ACoAADJZZogBktEfTcdtPaLn1IfLW3v0ScDX4WE",
+    "type": "Creative Project"
+ },
+
+  {
+  "title": "Hotel Booking Cancellation Analysis",
+  "description": "End-to-end analytical project predicting hotel booking cancellations using data exploration, machine learning models, and customer segmentation. Includes EDA, logistic regression, CART, random forest, model evaluation, and K-Means clustering for risk-based customer segmentation.",
+  "tags": ["Machine Learning", "EDA", "Customer Segmentation", "Logistic Regression", "Random Forest"],
+  "link": "https://github.com/raghavgoel9670/Hotel-Booking-Cancellation",
+  "type": "Project"
+  },
+
+  {
+  "title": "Driving Sustainability & Health with Innovative Millet-Based Solutions",
+  "description": "Sales Management project focusing on sustainable millet-based business strategies combining innovation, eco-conscious branding, and data-driven decision-making.",
+  "tags": ["Sustainability", "Sales Management", "Innovation", "FMCG", "Team Project"],
+  "link": "https://www.linkedin.com/posts/raghavgoel00147_sales-pitch-rooted-reach-activity-7263232861023989760-C3ZT/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADJZZogBktEfTcdtPaLn1IfLW3v0ScDX4WE",
+  "type": "Creative Project"
+  },
+  {
+    "title": "Car Price Analysis",
+    "description": "Performed ANOVA, regression, and EDA to identify key pricing drivers and visualized insights through dashboards.",
+    "tags": ["Data Analysis", "Python", "EDA"],
+    "link": "https://github.com/raghavgoel9670/Car_Price_Analysis_and_Visualization",
+    "type": "Project"
+  },
+  {
+  "title": "Laptop Price Prediction (Machine Learning Project)",
+  "description": "End-to-end machine learning workflow predicting laptop prices using regression models. Includes data preprocessing, feature engineering, exploratory data analysis, visualizations, and model evaluation.",
+  "tags": ["Machine Learning", "Regression", "EDA", "Python", "Data Science"],
+  "link": "https://github.com/raghavgoel9670/Laptop_Price_Prediction-",
+  "type": "Project"
+  },
+  {
+  "title": "Calories Burnt Predictor (Machine Learning Project)",
+  "description": "Built a machine learning model to predict calories burnt based on exercise and physiological parameters. Includes data preprocessing, feature selection, EDA, model training, and performance evaluation.",
+  "tags": ["Machine Learning", "Prediction", "Python", "Regression", "Health Analytics"],
+  "link": "https://github.com/raghavgoel9670/Calories_Burnt_Predictor",
+  "type": "Project"
+  },
+  {
+    "title": "Sustainable Packaging Research",
+    "description": "Conducted Primary and Secondary research to reveal brand trust (+148%) and environmental awareness (+64%) as key drivers for sustainable packaging adoption and loyalty.",
+    "tags": ["Research", "Sustainability"],
+    "link": "https://github.com/raghavgoel9670/CapstoneProject",
+    "type": "Research Paper"
+  },
+  {
+    "title": "Metaverse Marketing Research Paper",
+    "description": "Published paper analysing 20 virtual worlds and 100 surveys to develop virtual branding strategies.",
+    "tags": ["Research", "Marketing"],
+    "link": "https://www.ijaresm.com/uploaded_files/document_file/Raghav_GoelM6Ig.pdf",
+    "type": "Research Paper"
+  },
+  {
+  "title": "Blockchain-Based Supply Chain Transparency in Marketing , Research Paper",
+  "description": "Explores how blockchain enhances trust and traceability in product promotion through transparency-driven marketing strategies.",
+  "tags": ["Research", "Blockchain", "Marketing", "Supply Chain"],
+  "link": "https://ijprems.com/uploadedfiles/paper//issue_7_july_2024/35562/final/fin_ijprems1723034620.pdf",
+  "type": "Research Paper"
+ }
+
+]
